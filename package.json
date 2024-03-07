@@ -26,5 +26,9 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.3",
     "vite": "^4.4.5"
-  }
+  },
+  "description": "This is a portfolio of my private coding projects as well as my resume and contact information",
+  "main": "vite.config.js",
+  "author": "",
+  "license": "ISC"
 }
