@@ -1,0 +1,122 @@
+.navbar {
+    background-color: #5033d2;
+    opacity: 90%;
+    position:fixed;
+    z-index: 9999;
+    width: 100%
+}
+.nav-container .nav-link {
+    color: whitesmoke; 
+  }
+.nav-container .navbar-brand {
+    color: whitesmoke; 
+}
+
+.nav-container .nav-link:hover {
+    color: black;
+}
+
+body {
+    background-image: url('./assets/background.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.photos {
+    display: flex;
+    position: relative;
+    top: 100px;
+    left: 40px;    
+    height: 200px;
+    width: 150px;
+    border: 2px solid white;
+    margin-bottom: 20px;
+}
+
+.abouttext {
+    text-align: center;
+    transform: translateY(40%);
+    color: black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.about {
+    position:absolute;
+    top: 50%; 
+    left: 50%;
+    margin-left: 30px; 
+    border: 3px solid #664bde;
+    width: 500px;
+    height: 300px;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    opacity: 70%;
+}
+
+#resume1 {
+    position:absolute;
+    height: 850px;
+    margin-top: 150px;
+    margin-bottom: 20px; 
+    left: 25%; 
+}
+
+#resume2 {
+    position:absolute;
+    height: 850px;
+    top: calc(150px + 850px + 20px);
+    left: 25%; 
+}
+#download {
+    margin-top: 110px;
+    transform: translateX(280px)
+}
+
+.projectcard {
+    height: 200px;
+    width: 300px;
+    margin-left: 80px; 
+    margin-top: 10%;
+    border: 4px solid rgb(162, 162, 162)
+}
+.projectcontainer {
+    position:absolute;
+    top: 65%; 
+    left: 55%;
+    margin-left: 30px; 
+    width: 900px;
+    height: 700px;
+    transform: translate(-60%, -50%);
+}
+
+.projecttext {
+    text-align: center;
+    transform: translateX(20px);
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    margin-top: 10px; /* Adjust as needed */
+}
+
+.linkcontainer {
+    height: 100px;
+    transform: translateY(30%) translateX(13%)
+}
+
+#icon1 {
+    height: 100px;
+}
+#icon2 {
+    width: 200px;
+    transform: translateY(80%) translateX(-40%)
+}
+.contactcontainer {
+    position:absolute;
+    top: 50%; 
+    left: 50%;
+    margin-left: 30px; 
+    border: 3px solid #664bde;
+    width: 500px;
+    height: 300px;
+    transform: translate(-50%, -50%);
+    background-color: rgb(222, 221, 221);
+}

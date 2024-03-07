@@ -1,0 +1,1 @@
+This is a portfolio of my private coding projects as well as my resume and contact information
