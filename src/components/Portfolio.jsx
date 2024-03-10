@@ -1,7 +1,7 @@
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import fitgenie from '../assets/fitgenie.jpg'
+import fitgenie from '../assets/fitgenie.png'
 export default function Portfolio() {
     return (
         <Container className='projectcontainer'>

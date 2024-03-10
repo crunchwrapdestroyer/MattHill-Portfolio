@@ -1,4 +1,5 @@
 # Table of Contents
+Matt Hill Portfolio
 - [Project Name](#project-name)
 - [Description](#description)
 - [Installation](#installation)
@@ -10,29 +11,24 @@
 - [Questions](#questions)
 - [Screenshots](#screenshots)
 ## Project Name
-${Fit-Genie}
+${Matt Hill Portfolio}
 ## Description
-${description}
-
-
+My name is Matt Hill, this is a portfolio application to share the coding application projects I have created. It includes my self description, resume, and a gallery of my projects. This application was built using ReactJS, express and node. 
 ## Installation
-${installation)
 <code>npm install</code>
+<code>npm run dev</code>
 
-console.table
-## Usage
-
-
-## Contributing
-${contributing}
 ## License
-[Mit License](https://choosealicense.com/licenses/mit/#)
+[[Mit License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Questions
 - Email: [hillmatt58@gmail.com]()
 - GitHub: [crunchwrapdestroyer]()
-- [recording-of-working-application]()
+
 ## Screenshots
-${screenshots}
-![screenshot1]()
-![screenshot2]()
+
+![screenshot1](./src/assets/app1.png)
+
+
+![screenshot2](./src/assets/app2.png)
 
