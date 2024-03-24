@@ -7,8 +7,8 @@ export default function Resume() {
         <Container className='resumecontainer'>
             <Row>
                 <Col>
-                    <img id="resume1"src="./src/assets/Resume1.jpg"></img>
-                    <img id="resume2"src="./src/assets/Resume2.jpg"></img>
+                    <img id="resume1" src="./public/assets/Resume1.jpg"></img>
+                    <img id="resume2" src="./public/assets/Resume2.jpg"></img>
                 </Col>
             </Row>
         </Container>

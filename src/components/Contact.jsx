@@ -12,12 +12,12 @@ export default function Contact() {
                     <Row className='linkcontainer'>
                         <Col>
                             <a href='https://github.com/crunchwrapdestroyer?tab=repositories' target='blank' >
-                                <img id='icon1' src='/src/assets/github.png' alt='Github Icon'></img>
+                                <img id='icon1' src='/public/assets/github.png' alt='Github Icon'></img>
                             </a>
                         </Col>
                         <Col>
                             <a href='https://www.linkedin.com/in/matt-hill-18026a175/' target='blank' >
-                                <img id='icon2' src='/src/assets/linkedin.png' alt='Linkedin Icon'></img>
+                                <img id='icon2' src='/public/assets/linkedin.png' alt='Linkedin Icon'></img>
                             </a>
                         </Col>
                     </Row>
