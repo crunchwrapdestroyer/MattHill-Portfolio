@@ -5,7 +5,9 @@ import Portfolio from './components/Portfolio'
 import Resume from './components/Resume'
 import Nav from './components/Nav';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './App.css'
+import './index.css'
+
+
 
 function App() {
   return (
